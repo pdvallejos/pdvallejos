@@ -2,7 +2,19 @@
 - 👀 I’m interested in ...
 - 🌱 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: pdvallejos@gmail.com, linkedIn: https://www.linkedin.com/in/pablo-vallejos-8478a321 
+- 📫 Contact me: 
+- [<img align="left" alt="Gmail" width="30" src="https://user-images.githubusercontent.com/82845564/142031986-7d572971-ed80-4b48-9d9a-a899d3a01391.png" />]( pdvallejos@gmail.com) [<img align="left" alt="LinkedIn" width="30" src="https://user-images.githubusercontent.com/82845564/142031602-8b59d0a7-9acb-4028-b971-93eed2c12c7a.png" />]( http://www.linkedin.com/in/pablo-vallejos-8478a3215) 
+
+
+
+
+## Lenguage and tools
+```js
+const pdv = {
+code: [JavaScript, Typescript, HTML5, CSS3, PostgresSQL],
+tools: [React, Redux, Node_JS, Express, Sequalize],
+}
+```
 
 
 
@@ -10,7 +22,3 @@
 pdvallejos/pdvallejos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" background="white"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
