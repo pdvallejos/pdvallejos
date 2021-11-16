@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @pdvallejos 
-- 👀 I’m interested in ...
-- 🌱 I’m Full Stack Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact me: 
+<img align="center" alt="inicio" width="80%" src="https://user-images.githubusercontent.com/82845564/142042798-95284589-b2b1-4fb6-9cb8-afef2d550fcc.png" />
+
 - [<img align="left" alt="Gmail" width="30" src="https://user-images.githubusercontent.com/82845564/142031986-7d572971-ed80-4b48-9d9a-a899d3a01391.png" />]( pdvallejos@gmail.com) [<img align="left" alt="LinkedIn" width="30" src="https://user-images.githubusercontent.com/82845564/142031602-8b59d0a7-9acb-4028-b971-93eed2c12c7a.png" />]( http://www.linkedin.com/in/pablo-vallejos-8478a3215) 
 
 
